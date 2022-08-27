@@ -24,6 +24,7 @@
 
 ## 🔗 Links auxiliares
 
+- [W3C - HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [W3C - Media queries ](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [SQL3 - DB Browser for SQLite](https://sqlitebrowser.org/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
+ 
