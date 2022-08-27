@@ -21,7 +21,7 @@
 - CSS
     - Posicionamentos
     - Pseudo-classes
-    - Media querys
+    - Media queries
 - JavaScript
     - Introdução ao JavaScript
     - Manipulação do DOM
@@ -30,6 +30,6 @@
 
 ## 🔗 Links auxiliares
 
-- [W3C - ](https://www.w3schools.com/css/css3_mediaqueries.asp)
+- [W3C - Media queries ](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
