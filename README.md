@@ -14,6 +14,8 @@
  - Iniciar aplicação : npm run dev
  
  - Aplicação inicia na :  //localhost:3000/ 
+    
+ - Aplicação 100% responsiva.
  
 ## 💻 Tecnologias
 - HTML
