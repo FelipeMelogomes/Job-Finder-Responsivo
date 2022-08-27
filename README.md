@@ -13,7 +13,7 @@
 - JavaScript
 - Node.js
 
-## 💬 Assuntos abordados
+## 💬
 - HTML
     - Estruturação da página 
     - Semântica
@@ -22,22 +22,15 @@
     - SEO
 - CSS
     - Posicionamentos
-    - Pseudo-elementos
     - Pseudo-classes
-    - Flexbox
-    - Animações 
+    - media query
 - JavaScript
     - Introdução ao JavaScript
     - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
-
-## 🎨 Variáveis do Tema CSS
+    - Integração com o DB Browser for SQLite
 
 ## 🔗 Links auxiliares
 
 - [W3C - World Wide Web Consortium](http://w3c.org)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
