@@ -1,6 +1,5 @@
 <p align="center">
-    <img width="300" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/AiV8518" data-context="false" ><a href="//imgur.com/a/AiV8518"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
-</p>
+    <img width="300" src="https://i.imgur.com/woOy3QB.png"
 
 -------
 Job-Finder site fictício de empregos ( jobs ) 100% home office, apenas para programadores
