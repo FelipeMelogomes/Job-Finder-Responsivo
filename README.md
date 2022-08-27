@@ -7,6 +7,9 @@
 
 -------
 
+## 💬 Dependencias
+
+
 ## 💻 Tecnologias
 - HTML
 - CSS
