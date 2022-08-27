@@ -6,13 +6,12 @@
     Job Finder Seu site de empregos 100% home office, exclusivo para programadores.
 
 -------
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+
 ## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
+- Node.js
 
 ## 💬 Assuntos abordados
 - HTML
