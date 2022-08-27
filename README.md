@@ -2,9 +2,10 @@
     <img width="1000" src="https://i.imgur.com/85itJQc.png"
 
 -------
-Job Finder 
-         Seu site de empregos 100% home office, exclusivo para programadores
+<p align="center">
+    Job Finder Seu site de empregos 100% home office, exclusivo para programadores
 
+-------
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
