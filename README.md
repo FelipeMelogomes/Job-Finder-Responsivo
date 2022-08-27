@@ -7,32 +7,23 @@
 
 -------
 
-## 💬 Dependencias
+##  Dependencias para funcionamento do projeto
 
-
+ -  npm install express express-handlebars body-parser sequelize sqlite3
+ 
+ - Iniciar aplicação : npm run dev
+ 
+ - Aplicação abrira na //localhost:3000/ 
+ 
 ## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
 - Node.js
-
-## 💬
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-classes
-    - Media queries
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Integração com o DB Browser for SQLite
-    - Utilização do framework Node.js
+- DB Browser for SQLite
 
 ## 🔗 Links auxiliares
 
 - [W3C - Media queries ](https://www.w3schools.com/css/css3_mediaqueries.asp)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
+- [SQL3 - DB Browser for SQLite](https://sqlitebrowser.org/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
