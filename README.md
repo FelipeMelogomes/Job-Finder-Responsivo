@@ -2,7 +2,8 @@
     <img width="1000" src="https://i.imgur.com/85itJQc.png"
 
 -------
-Job-Finder site fictício de empregos ( jobs ) 100% home office, apenas para programadores
+Job Finder 
+         Seu site de empregos 100% home office, exclusivo para programadores
 
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
