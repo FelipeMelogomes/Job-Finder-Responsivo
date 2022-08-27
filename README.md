@@ -3,7 +3,7 @@
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+Job-Finder Site fictício de empregos (jobs) 100% home office, apenas para programadores
 
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
