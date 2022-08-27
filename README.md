@@ -13,7 +13,7 @@
  
  - Iniciar aplicação : npm run dev
  
- - Aplicação abrira na //localhost:3000/ 
+ - Aplicação inicia na :  //localhost:3000/ 
  
 ## 💻 Tecnologias
 - HTML
