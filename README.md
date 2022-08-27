@@ -3,7 +3,7 @@
 </p>
 
 -------
-Job-Finder Site fictício de empregos (jobs) 100% home office, apenas para programadores
+Job-Finder site fictício de empregos ( jobs ) 100% home office, apenas para programadores
 
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
