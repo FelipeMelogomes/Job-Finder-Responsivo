@@ -22,6 +22,7 @@
 - CSS
 - JavaScript
 - Node.js
+- Inserção de dado no banco via postman
 - DB Browser for SQLite
 
 ## 🔗 Links auxiliares
