@@ -3,7 +3,7 @@
 
 -------
 <p align="center">
-    Job Finder Seu site de empregos 100% home office, exclusivo para programadores
+    Job Finder Seu site de empregos 100% home office, exclusivo para programadores.
 
 -------
 ## ▶️ Semana Front-end
