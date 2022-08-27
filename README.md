@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
     <img width="300" src="https://i.imgur.com/woOy3QB.png"
 
 -------
