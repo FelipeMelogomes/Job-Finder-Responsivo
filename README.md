@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://i.imgur.com/85itJQc.png"
+    <img width="1000" src="https://i.imgur.com/85itJQc.png"
 
 -------
 Job-Finder site fictício de empregos ( jobs ) 100% home office, apenas para programadores
