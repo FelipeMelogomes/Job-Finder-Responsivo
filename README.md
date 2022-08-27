@@ -17,20 +17,19 @@
 - HTML
     - Estruturação da página 
     - Semântica
-    - Acessibilidade
-    - Web Scraping
     - SEO
 - CSS
     - Posicionamentos
     - Pseudo-classes
-    - media query
+    - Media querys
 - JavaScript
     - Introdução ao JavaScript
     - Manipulação do DOM
     - Integração com o DB Browser for SQLite
+    - Utilização do framework Node.js
 
 ## 🔗 Links auxiliares
 
-- [W3C - World Wide Web Consortium](http://w3c.org)
+- [W3C - ](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
