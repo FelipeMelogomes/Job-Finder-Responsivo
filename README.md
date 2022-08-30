@@ -9,6 +9,8 @@
 
 ##  Dependencias para funcionamento do projeto
 
+ - Instalação do Node.Js
+ 
  -  npm install express express-handlebars body-parser sequelize sqlite3
  
  - Iniciar aplicação : npm run dev
